@@ -1,0 +1,13 @@
+/*selector{ property: value; */
+ /*}*/
+ body{
+ 	background-image: url(javascript.png);
+ 	background-size: cover;
+ }
+
+ h1 {text-align: center;
+
+ }
+ div{text-align: center;
+ 	align-content: center
+ }
